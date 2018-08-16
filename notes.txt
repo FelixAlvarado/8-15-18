@@ -15,4 +15,9 @@ prototype delegation: A objet is used as a model for another object
 
 concatenative inheritance - inheriting properties from one object to another by copying object's protype properties without retaining regerence between them. 
 
-Funtional inheritence - using funciton to create new object
+Funtional inheritence - using funciton to create new object 
+
+In the master-slave paradigm, what tasks are commonly done by the slave databases and why? 
+
+They do whatever task the master gives them (master acts as a load balancer). If master fails, any of the salves can replace the master. 
+
