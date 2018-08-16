@@ -21,3 +21,14 @@ In the master-slave paradigm, what tasks are commonly done by the slave database
 
 They do whatever task the master gives them (master acts as a load balancer). If master fails, any of the salves can replace the master. 
 
+What is a fram delimeter? 
+
+A set of bits that tells computer that there's a set of frames coming right after 
+
+What is bit stuffing?
+
+ Putting extra bits in a signal so that computer doesn't mistake a part of a signalfor a frame delimeter.  
+
+What is framing? 
+
+Sending a signal to where parts of a signal are seperated into frams (or different  parts of a message)
