@@ -1,0 +1,8 @@
+what is a AVL tree? 
+
+Trees that require the heights of the left and right children of every node to differ by most one.
+
+How does an AVL tree keep itself balanced? 
+
+By moaking sure hat the heights of left and right hildren differ by at most 1. 
+
