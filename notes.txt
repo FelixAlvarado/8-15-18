@@ -6,3 +6,13 @@ How does an AVL tree keep itself balanced?
 
 By moaking sure hat the heights of left and right hildren differ by at most 1. 
 
+How does prototypal inhertance work? 
+
+Obejcts inherit directly from other objects 
+
+Three types: 
+prototype delegation: A objet is used as a model for another object 
+
+concatenative inheritance - inheriting properties from one object to another by copying object's protype properties without retaining regerence between them. 
+
+Funtional inheritence - using funciton to create new object
